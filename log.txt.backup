@@ -1,0 +1,420 @@
+L4 | Thu Mar 15 22:26:28 2018 (817 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Thu Mar 15 22:26:28 2018 (817 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Thu Mar 15 22:26:28 2018 (865 ms) | general | Freeing sound sprites
+
+L4 | Thu Mar 15 22:26:28 2018 (869 ms) | general | exiting: freeing frameDrawer
+
+L4 | Thu Mar 15 22:26:28 2018 (953 ms) | general | exiting: Deleting screen
+
+L4 | Thu Mar 15 22:26:28 2018 (953 ms) | general | exiting: freeing drawString
+
+L4 | Thu Mar 15 22:26:28 2018 (956 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Thu Mar 15 22:26:28 2018 (975 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:24:19 2018 (816 ms) | general | New game starting up
+L4 | Fri Mar 16 08:24:19 2018 (816 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:24:19 2018 (817 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:24:19 2018 (817 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:24:19 2018 (817 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:24:19 2018 (822 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:24:19 2018 (822 ms) | general | 30 fps
+L4 | Fri Mar 16 08:24:19 2018 (822 ms) | general | 60 fps
+L4 | Fri Mar 16 08:24:19 2018 (822 ms) | general | 120 fps
+L4 | Fri Mar 16 08:24:19 2018 (822 ms) | general | 144 fps
+L4 | Fri Mar 16 08:24:19 2018 (830 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:24:19 2018 (830 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:24:20 2018 (742 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:25:18 2018 (753 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:25:18 2018 (753 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:25:18 2018 (753 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:25:18 2018 (793 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:25:18 2018 (793 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:25:18 2018 (840 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:25:18 2018 (840 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:25:18 2018 (841 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:25:18 2018 (874 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:27:53 2018 (937 ms) | general | New game starting up
+L4 | Fri Mar 16 08:27:53 2018 (937 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:27:53 2018 (938 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:27:53 2018 (938 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:27:53 2018 (938 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:27:53 2018 (939 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:27:53 2018 (939 ms) | general | 30 fps
+L4 | Fri Mar 16 08:27:53 2018 (939 ms) | general | 60 fps
+L4 | Fri Mar 16 08:27:53 2018 (939 ms) | general | 120 fps
+L4 | Fri Mar 16 08:27:53 2018 (939 ms) | general | 144 fps
+L4 | Fri Mar 16 08:27:53 2018 (943 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:27:53 2018 (943 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:27:54 2018 (872 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:28:19 2018 (596 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:28:19 2018 (596 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:28:19 2018 (596 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:28:19 2018 (651 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:28:19 2018 (656 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:28:19 2018 (711 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:28:19 2018 (712 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:28:19 2018 (713 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:28:19 2018 (738 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:28:22 2018 (53 ms) | general | New game starting up
+L4 | Fri Mar 16 08:28:22 2018 (53 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:28:22 2018 (53 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:28:22 2018 (53 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:28:22 2018 (54 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:28:22 2018 (54 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:28:22 2018 (54 ms) | general | 30 fps
+L4 | Fri Mar 16 08:28:22 2018 (54 ms) | general | 60 fps
+L4 | Fri Mar 16 08:28:22 2018 (54 ms) | general | 120 fps
+L4 | Fri Mar 16 08:28:22 2018 (54 ms) | general | 144 fps
+L4 | Fri Mar 16 08:28:22 2018 (58 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:28:22 2018 (58 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:28:22 2018 (986 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:29:27 2018 (887 ms) | general | New game starting up
+L4 | Fri Mar 16 08:29:27 2018 (887 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:29:27 2018 (888 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:29:27 2018 (888 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:29:27 2018 (889 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:29:27 2018 (890 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:29:27 2018 (890 ms) | general | 30 fps
+L4 | Fri Mar 16 08:29:27 2018 (890 ms) | general | 60 fps
+L4 | Fri Mar 16 08:29:27 2018 (890 ms) | general | 120 fps
+L4 | Fri Mar 16 08:29:27 2018 (890 ms) | general | 144 fps
+L4 | Fri Mar 16 08:29:27 2018 (900 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:29:27 2018 (900 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:29:29 2018 (317 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:30:02 2018 (588 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:30:02 2018 (588 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:30:02 2018 (588 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:30:02 2018 (631 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:30:02 2018 (635 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:30:02 2018 (703 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:30:02 2018 (703 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:30:02 2018 (704 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:30:02 2018 (719 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:30:04 2018 (634 ms) | general | New game starting up
+L4 | Fri Mar 16 08:30:04 2018 (634 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:30:04 2018 (634 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:30:04 2018 (634 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:30:04 2018 (635 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:30:04 2018 (635 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:30:04 2018 (635 ms) | general | 30 fps
+L4 | Fri Mar 16 08:30:04 2018 (636 ms) | general | 60 fps
+L4 | Fri Mar 16 08:30:04 2018 (636 ms) | general | 120 fps
+L4 | Fri Mar 16 08:30:04 2018 (636 ms) | general | 144 fps
+L4 | Fri Mar 16 08:30:04 2018 (640 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:30:04 2018 (640 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:30:05 2018 (544 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:30:40 2018 (79 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:30:40 2018 (79 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:30:40 2018 (79 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:30:40 2018 (121 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:30:40 2018 (124 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:30:40 2018 (198 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:30:40 2018 (198 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:30:40 2018 (200 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:30:40 2018 (209 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:30:46 2018 (216 ms) | general | New game starting up
+L4 | Fri Mar 16 08:30:46 2018 (217 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:30:46 2018 (217 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:30:46 2018 (217 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:30:46 2018 (218 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:30:46 2018 (218 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:30:46 2018 (218 ms) | general | 30 fps
+L4 | Fri Mar 16 08:30:46 2018 (218 ms) | general | 60 fps
+L4 | Fri Mar 16 08:30:46 2018 (218 ms) | general | 120 fps
+L4 | Fri Mar 16 08:30:46 2018 (218 ms) | general | 144 fps
+L4 | Fri Mar 16 08:30:46 2018 (223 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:30:46 2018 (223 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:30:47 2018 (98 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:31:23 2018 (490 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:31:23 2018 (490 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:31:23 2018 (491 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:31:23 2018 (520 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:31:23 2018 (523 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:31:23 2018 (587 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:31:23 2018 (587 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:31:23 2018 (588 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:31:23 2018 (602 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:31:26 2018 (57 ms) | general | New game starting up
+L4 | Fri Mar 16 08:31:26 2018 (57 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:31:26 2018 (58 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:31:26 2018 (58 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:31:26 2018 (58 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:31:26 2018 (58 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:31:26 2018 (58 ms) | general | 30 fps
+L4 | Fri Mar 16 08:31:26 2018 (59 ms) | general | 60 fps
+L4 | Fri Mar 16 08:31:26 2018 (59 ms) | general | 120 fps
+L4 | Fri Mar 16 08:31:26 2018 (59 ms) | general | 144 fps
+L4 | Fri Mar 16 08:31:26 2018 (62 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:31:26 2018 (62 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:31:26 2018 (960 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:32:07 2018 (513 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:32:07 2018 (513 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:32:07 2018 (513 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:32:07 2018 (549 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:32:07 2018 (553 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:32:07 2018 (611 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:32:07 2018 (611 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:32:07 2018 (613 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:32:07 2018 (635 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:32:17 2018 (485 ms) | general | New game starting up
+L4 | Fri Mar 16 08:32:17 2018 (485 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:32:17 2018 (485 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:32:17 2018 (485 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:32:17 2018 (486 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:32:17 2018 (486 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:32:17 2018 (486 ms) | general | 30 fps
+L4 | Fri Mar 16 08:32:17 2018 (486 ms) | general | 60 fps
+L4 | Fri Mar 16 08:32:17 2018 (486 ms) | general | 120 fps
+L4 | Fri Mar 16 08:32:17 2018 (486 ms) | general | 144 fps
+L4 | Fri Mar 16 08:32:17 2018 (490 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:32:17 2018 (490 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:32:18 2018 (411 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:32:59 2018 (303 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:32:59 2018 (303 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:32:59 2018 (303 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:32:59 2018 (350 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:32:59 2018 (357 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:32:59 2018 (432 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:32:59 2018 (432 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:32:59 2018 (433 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:32:59 2018 (449 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:33:08 2018 (372 ms) | general | New game starting up
+L4 | Fri Mar 16 08:33:08 2018 (372 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:33:08 2018 (372 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:33:08 2018 (372 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:33:08 2018 (373 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:33:08 2018 (373 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:33:08 2018 (373 ms) | general | 30 fps
+L4 | Fri Mar 16 08:33:08 2018 (373 ms) | general | 60 fps
+L4 | Fri Mar 16 08:33:08 2018 (373 ms) | general | 120 fps
+L4 | Fri Mar 16 08:33:08 2018 (374 ms) | general | 144 fps
+L4 | Fri Mar 16 08:33:08 2018 (378 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:33:08 2018 (378 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:33:09 2018 (290 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:33:44 2018 (303 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:33:44 2018 (303 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:33:44 2018 (303 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:33:44 2018 (341 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:33:44 2018 (344 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:33:44 2018 (398 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:33:44 2018 (398 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:33:44 2018 (399 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:33:44 2018 (421 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:35:25 2018 (978 ms) | general | New game starting up
+L4 | Fri Mar 16 08:35:25 2018 (978 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:35:25 2018 (978 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:35:25 2018 (978 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:35:25 2018 (979 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:35:25 2018 (979 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:35:25 2018 (979 ms) | general | 30 fps
+L4 | Fri Mar 16 08:35:25 2018 (979 ms) | general | 60 fps
+L4 | Fri Mar 16 08:35:25 2018 (979 ms) | general | 120 fps
+L4 | Fri Mar 16 08:35:25 2018 (979 ms) | general | 144 fps
+L4 | Fri Mar 16 08:35:25 2018 (983 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:35:25 2018 (983 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:35:26 2018 (929 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:36:24 2018 (99 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:36:24 2018 (99 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:36:24 2018 (99 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:36:24 2018 (139 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:36:24 2018 (143 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:36:24 2018 (220 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:36:24 2018 (220 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:36:24 2018 (222 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:36:24 2018 (230 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:36:25 2018 (778 ms) | general | New game starting up
+L4 | Fri Mar 16 08:36:25 2018 (778 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:36:25 2018 (779 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:36:25 2018 (779 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:36:25 2018 (779 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:36:25 2018 (780 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:36:25 2018 (780 ms) | general | 30 fps
+L4 | Fri Mar 16 08:36:25 2018 (780 ms) | general | 60 fps
+L4 | Fri Mar 16 08:36:25 2018 (780 ms) | general | 120 fps
+L4 | Fri Mar 16 08:36:25 2018 (780 ms) | general | 144 fps
+L4 | Fri Mar 16 08:36:25 2018 (784 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:36:25 2018 (784 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:36:26 2018 (753 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:38:25 2018 (673 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:38:25 2018 (673 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:38:25 2018 (673 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:38:25 2018 (721 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:38:25 2018 (724 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:38:25 2018 (793 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:38:25 2018 (793 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:38:25 2018 (797 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:38:25 2018 (812 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 08:43:29 2018 (200 ms) | general | New game starting up
+L4 | Fri Mar 16 08:43:29 2018 (200 ms) | general | Target game image size:  1280x720
+
+L4 | Fri Mar 16 08:43:29 2018 (201 ms) | general | Screen dimensions for fullscreen mode:  1366x768
+
+L4 | Fri Mar 16 08:43:29 2018 (201 ms) | general | Screen has wider aspect ratio than desired game image, fixing by makign game image wider
+L4 | Fri Mar 16 08:43:29 2018 (201 ms) | general | Screen dimensions for largest-window mode:  1147x645
+
+L4 | Fri Mar 16 08:43:29 2018 (201 ms) | general | The following frame rates are considered possible:
+L4 | Fri Mar 16 08:43:29 2018 (201 ms) | general | 30 fps
+L4 | Fri Mar 16 08:43:29 2018 (202 ms) | general | 60 fps
+L4 | Fri Mar 16 08:43:29 2018 (202 ms) | general | 120 fps
+L4 | Fri Mar 16 08:43:29 2018 (202 ms) | general | 144 fps
+L4 | Fri Mar 16 08:43:29 2018 (206 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
+L4 | Fri Mar 16 08:43:29 2018 (206 ms) | general | All resolutions available
+L4 | Fri Mar 16 08:43:30 2018 (252 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Fri Mar 16 08:43:57 2018 (871 ms) | general | exiting...
+
+L4 | Fri Mar 16 08:43:57 2018 (871 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Fri Mar 16 08:43:57 2018 (871 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Fri Mar 16 08:43:57 2018 (920 ms) | general | Freeing sound sprites
+
+L4 | Fri Mar 16 08:43:57 2018 (923 ms) | general | exiting: freeing frameDrawer
+
+L4 | Fri Mar 16 08:43:57 2018 (997 ms) | general | exiting: Deleting screen
+
+L4 | Fri Mar 16 08:43:57 2018 (997 ms) | general | exiting: freeing drawString
+
+L4 | Fri Mar 16 08:43:58 2018 (0 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Fri Mar 16 08:43:58 2018 (10 ms) | general | exiting: Done.
+
+L4 | Fri Mar 16 09:00:24 2018 (99 ms) | general | exiting...
+

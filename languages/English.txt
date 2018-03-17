@@ -1,0 +1,206 @@
+writeFailed "ERROR:  GAME FOLDER IS READ-ONLY"
+
+
+measuringFPS "MEASURING MAXIMUM FRAMERATE"
+
+vsyncWarning "WARNING: VERTICAL SYNC DISABLED"
+vsyncWarning2 "(VISUAL TEARING LIKELY)"
+
+vsyncWarning3 "GRAPHICS CARD CONTROL PANEL CAN FIX THIS"
+
+vsyncContinueMessage "PRESS Y TO CONTINUE WITHOUT VSYNC OR ESC TO QUIT"
+
+
+
+loading "LOADING"
+
+sprites "SPRITES"
+objects "OBJECTS"
+transitions "TRANSITIONS"
+animations "ANIMATIONS"
+categories "CATEGORIES"
+
+groundTextures "GROUND TEXTURES"
+
+
+spritesRebuild "SPRITES##(REBUILDING CACHE)"
+objectsRebuild "OBJECTS##(REBUILDING CACHE)"
+transitionsRebuild "TRANSITIONS##(REBUILDING CACHE)"
+animationsRebuild "ANIMATIONS##(REBUILDING CACHE)"
+categoriesRebuild "CATEGORIES##(REBUILDING CACHE)"
+
+
+
+
+email "EMAIL"
+atSignTip "INSERT '@' SIGN (INTL KEYBOARDS)"
+
+
+loginButton "LOGIN"
+loginNoSaveButton "TEMP LOGIN"
+settingsButton "SETTINGS"
+postReviewButton "POST REVIEW"
+updateReviewButton "UPDATE REVIEW"
+
+reviewText "REVIEW TEXT"
+reviewName "DISPLAY NAME"
+
+recommend "RECOMMEND"
+recommendYes "YES"
+recommendNo "NO"
+
+postButton "POST"
+postReviewTip "POST TO ONEHOURONELIFE.COM"
+
+updateButton "UPDATE"
+updateReviewTip "UPDATE ON ONEHOURONELIFE.COM"
+
+removeButton "REMOVE"
+removeReviewTip "REMOVE FROM ONEHOURONELIFE.COM"
+
+
+copyReviewTip "COPY REVIEW TEXT TO CLIPBOARD"
+copySelectionTip "COPY SELECTION TO CLIPBOARD"
+
+spellCheck "CHECK SPELLING"
+
+requestDenied "POST REQUEST DENIED"
+
+reviewPosted "REVIEW HAS BEEN POSTED"
+reviewUpdated "REVIEW HAS BEEN UPDATED"
+reviewRemoved "REVIEW HAS BEEN REMOVED"
+
+
+
+saveTip "LOGIN AND STORE DETAILS LOCALLY"
+noSaveTip "DO NOT STORE DETAILS LOCALLY"
+
+
+accountKey "KEY"
+paste "PASTE"
+copy "COPY"
+clear "CLEAR"
+
+charLimit "5000 CHARACTER LIMIT REACHED"
+
+
+
+backButton "BACK"
+restartButton "RESTART"
+fullscreen "FULLSCREEN:"
+musicLoudness "MUSIC LOUDNESS:"
+soundLoudness "SOUND LOUDNESS:"
+
+targetFPS "TARGET FRAME RATE:"
+vsyncOn "USING VSYNC:"
+vsyncYes "YES"
+vsyncNo "NO"
+redetectButton "RE-DETECT"
+
+
+downloadingUpdate "DOWNLOADING UPDATE"
+applyingUpdate "APPLYING UPDATE"
+
+serverShutdownMessage "THE SERVERS HAVE BEEN##SHUT DOWN FOR MAINTENANCE.##PLEASE TRY AGAIN LATER."
+
+upgradeMessage "PLEASE DOWNLOAD##THE LATEST VERSION"
+
+manualRestartMessage "RESTART GAME TO APPLY UPDATE"
+
+
+loginFailed "LOGIN FAILED"
+
+serverShutdown "SERVER HAS BEEN SHUT DOWN"
+
+serverFull "SERVER IS FULL"
+
+
+waitingBirth "WAITING TO BE BORN"
+
+loadingMap "LOADING MAP"
+
+
+lastAte "ATE"
+lastAtePermanent "ATE FROM"
+
+breastMilk "DRANK BREAST MILK"
+
+you "YOU"
+eat "EAT"
+
+
+eatHint "MOUTH"
+bareHandHint "BARE HAND"
+bareGroundHint "BARE GROUND"
+nothingHint "NOTHING"
+eventuallyHint "(EVENTUALLY)"
+
+
+noHint "NO INFORMATION" 
+
+ofHint "OF"
+tabHint "[TAB]"
+
+
+youDied "YOU DIED"
+
+deathAgeOne "AGE:  1 YEAR"
+deathAge "AGE:  %d YEARS"
+
+reasonDisconnected "CAUSE:  CONNECTION LOST"
+
+reasonHunger "CAUSE:  STARVATION"
+
+reasonNursingHunger "CAUSE:  NURSING STARVATION"
+
+reasonKilled "CAUSE:  KILLED BY "
+
+reasonKilledUnknown "CAUSE:  KILLED BY UNKNOWN WEAPON"
+
+reasonOldAge "CAUSE:  OLD AGE"
+
+reasonUnknown "CAUSE:  UNKNOWN"
+
+
+okay "OK"
+quit "QUIT"
+
+reborn "GET REBORN"
+
+
+
+
+pauseMessage1 "REALLY QUIT?"
+
+pauseMessage2 "PRESS [ENTER] TO RESUME"
+
+
+pauseMessage3 "PRESS [%] TO QUIT"
+pauseMessage3b "YOU CAN'T QUIT NOW"
+
+pauseMessage4 "-"
+
+
+
+quitMessage "[ESC] TO QUIT"
+
+
+
+playbackTag           "PLAYBACK %:"
+playbackToggleMessage "(PRESS [%] TO HIDE)"
+playbackEndMessage    "(PRESS [ESC] TO END)"
+
+
+enterDemoCode  "Enter a demo code:"
+checkingCode  "Checking demo permissions with server..."
+
+
+
+responseWarning "CANNOT REACH SERVER.##ATTEMPTING RETRY %d"
+
+
+err_webRequest   "ERROR:  WEB REQUEST FAILED."
+err_codeFailed  "This demo code was denied by the server."
+err_serverVerifyFailed  "Response from the server##could not be authenticated."
+
+err_badServerResponse  "ERROR:  UNEXPECTED##RESPONSE FROM SERVER"

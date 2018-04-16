@@ -1,5 +1,5 @@
 id=684
-Steel Mining Pick
+Iron Mining Pick
 containable=1
 containSize=2,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
@@ -30,7 +30,7 @@ spriteID=1031
 pos=6.000000,-30.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.550000,0.412887,0.385000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

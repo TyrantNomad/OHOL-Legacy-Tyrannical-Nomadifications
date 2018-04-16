@@ -1,5 +1,5 @@
 id=644
-Dying Shot Grizzly Bear#3
+Dying Shot Grizzly Bear#4
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -25,7 +25,7 @@ sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=15
+numSprites=16
 spriteID=71
 pos=32.000000,-18.000000
 rot=0.000000
@@ -142,6 +142,14 @@ spriteID=1000
 pos=-50.000000,74.000000
 rot=0.000000
 hFlip=1
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=11
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1000
+pos=73.000000,75.000000
+rot=-0.045000
+hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=11

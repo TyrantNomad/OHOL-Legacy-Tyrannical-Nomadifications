@@ -1,0 +1,1 @@
+ceramicPot 0 -2 0

@@ -1,5 +1,5 @@
 id=708
-Clubbed Seal
+Unconscious Seal
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
@@ -21,11 +21,11 @@ clothing=t
 clothingOffset=-1.000000,62.000000
 deadlyDistance=0
 useDistance=1
-sounds=920:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=920:0.058333,675:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=7
+numSprites=9
 spriteID=71
 pos=-12.000000,-21.000000
 rot=0.000000
@@ -74,6 +74,14 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=772
+pos=50.000004,-6.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1049
 pos=31.000000,-11.000000
 rot=0.250000
@@ -81,6 +89,14 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=5
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=771
+pos=56.000000,0.000002
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1

@@ -1,5 +1,5 @@
 id=682
-Hot Steel Mining Pick#flat rock
+Hot Iron Tool Head on Flat Rock#flat rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

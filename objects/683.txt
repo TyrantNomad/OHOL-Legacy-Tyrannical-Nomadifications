@@ -1,5 +1,5 @@
 id=683
-Steel Mining Pick#flat rock
+Iron Pick Head on Flat Rock#flat rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -38,7 +38,7 @@ spriteID=1032
 pos=1.000000,-28.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.600000,0.450422,0.420000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

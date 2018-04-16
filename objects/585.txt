@@ -1,5 +1,5 @@
 id=585
-Wool Sweater
+Wool Top
 containable=1
 containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -26,11 +26,11 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=978
-pos=2.000000,-21.000000
+spriteID=60038
+pos=2.000000,-26.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.923626,0.845070
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -41,4 +41,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=13
+pixHeight=4

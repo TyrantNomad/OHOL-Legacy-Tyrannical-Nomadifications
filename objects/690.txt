@@ -42,13 +42,13 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1029
-pos=24.000000,-25.000000
+spriteID=60248
+pos=25.000000,-22.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.780000,0.000000
 ageRange=-1.000000,-1.000000
-parent=3
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=515
 pos=24.000000,-33.000000

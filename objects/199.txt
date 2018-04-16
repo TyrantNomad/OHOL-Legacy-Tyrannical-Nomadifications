@@ -1,5 +1,5 @@
 id=199
-Rabbit Fur Hat
+Rabbit Fur Cap
 containable=1
 containSize=2,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
@@ -18,7 +18,7 @@ foodValue=0
 speedMult=1.000000
 heldOffset=23.000000,29.000000
 clothing=h
-clothingOffset=-4.000000,61.000000
+clothingOffset=-5.000000,49.000000
 deadlyDistance=0
 useDistance=1
 sounds=153:0.250000,286:0.101010,-1:0.0,-1:0.0
@@ -26,8 +26,8 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=482
-pos=-1.000000,-29.000000
+spriteID=60039
+pos=0.000000,-26.000004
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -41,4 +41,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=13

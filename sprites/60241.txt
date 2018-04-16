@@ -1,0 +1,1 @@
+stoneBreakBitA 0 7 -8

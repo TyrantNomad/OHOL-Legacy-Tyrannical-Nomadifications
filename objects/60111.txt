@@ -1,6 +1,6 @@
 id=60111
-Hot Wrought Iron
-containable=1
+Hot Iron Ingot
+containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=1

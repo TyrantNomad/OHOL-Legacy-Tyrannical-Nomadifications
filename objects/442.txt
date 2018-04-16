@@ -1,5 +1,5 @@
 id=442
-Iron Hammer Head on Flat Rock
+Small Iron Block on Flat Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

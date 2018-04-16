@@ -30,7 +30,7 @@ spriteID=979
 pos=-1.000000,-33.000000
 rot=0.000000
 hFlip=0
-color=0.690196,0.078431,0.184314
+color=1.000000,0.366197,0.366197
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

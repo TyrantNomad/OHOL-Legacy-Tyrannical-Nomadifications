@@ -1,5 +1,5 @@
 id=239
-Wooden Tongs
+Wooden Tongs#empty
 containable=1
 containSize=2,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -27,8 +27,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=2
 spriteID=536
-pos=3.000000,-35.000000
-rot=0.000000
+pos=3.000000,-33.000000
+rot=-0.020000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -36,7 +36,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=537
 pos=0.000000,-33.000000
-rot=0.000000
+rot=0.070000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000

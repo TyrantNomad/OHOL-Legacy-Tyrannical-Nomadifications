@@ -1,5 +1,5 @@
 id=304
-Scorching Adobe Kiln#1
+High Forging Fire Adobe Kiln#1
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

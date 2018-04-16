@@ -1,5 +1,5 @@
 id=510
-Pond with Dead Goose#arrow
+Pond with Murdered Goose#arrow
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

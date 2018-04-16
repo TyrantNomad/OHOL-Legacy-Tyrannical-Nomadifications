@@ -1,5 +1,5 @@
 id=500
-Steel Shovel Head#flat rock
+Flat Iron Tool Head#flat rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -25,7 +25,7 @@ sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
+numSprites=3
 spriteID=547
 pos=5.000000,-36.000000
 rot=0.000000
@@ -39,6 +39,14 @@ pos=1.000000,-32.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=60045
+pos=2.000000,-32.000000
+rot=0.000000
+hFlip=0
+color=1.000000,0.850000,0.850000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

@@ -25,9 +25,9 @@ sounds=74:0.250000,49:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 numSlots=3#timeStretch=1.000000
 slotSize=1
-slotPos=-6.000000,-18.000000,vert=-38,parent=-1
-slotPos=-1.000000,-18.000000,vert=4,parent=-1
-slotPos=5.000000,-18.000000,vert=49,parent=-1
+slotPos=-10.000000,-18.000000,vert=1,parent=-1
+slotPos=-1.000000,-18.000000,vert=1,parent=-1
+slotPos=8.000000,-18.000000,vert=1,parent=-1
 numSprites=2
 spriteID=550
 pos=0.000000,-22.000000

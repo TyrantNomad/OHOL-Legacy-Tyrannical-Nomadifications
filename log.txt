@@ -1,36 +1,16 @@
-L4 | Sat Apr 14 15:58:51 2018 (144 ms) | general | exiting: Deleting sceneHandler
+L4 | Mon Apr 16 16:08:38 2018 (265 ms) | general | exiting: Deleting sceneHandler
 
-L4 | Sat Apr 14 15:58:51 2018 (144 ms) | general | exiting: calling SDL_CloseAudio
+L4 | Mon Apr 16 16:08:38 2018 (265 ms) | general | exiting: calling SDL_CloseAudio
 
-L4 | Sat Apr 14 15:58:51 2018 (186 ms) | general | Freeing sound sprites
+L4 | Mon Apr 16 16:08:38 2018 (315 ms) | general | Freeing sound sprites
 
-L4 | Sat Apr 14 15:58:51 2018 (187 ms) | general | exiting: freeing frameDrawer
+L4 | Mon Apr 16 16:08:38 2018 (315 ms) | general | exiting: freeing frameDrawer
 
-L4 | Sat Apr 14 15:58:51 2018 (298 ms) | general | exiting: Deleting screen
+L4 | Mon Apr 16 16:08:38 2018 (396 ms) | general | exiting: Deleting screen
 
-L4 | Sat Apr 14 15:58:51 2018 (298 ms) | general | exiting: freeing drawString
+L4 | Mon Apr 16 16:08:38 2018 (396 ms) | general | exiting: freeing drawString
 
-L4 | Sat Apr 14 15:58:51 2018 (300 ms) | general | exiting: calling SDL_Quit()
+L4 | Mon Apr 16 16:08:38 2018 (397 ms) | general | exiting: calling SDL_Quit()
 
-L4 | Sat Apr 14 15:58:51 2018 (318 ms) | general | exiting: deleting screenShotPrefix
-
-L4 | Sat Apr 14 15:58:51 2018 (318 ms) | general | exiting: Done.
-
-L4 | Mon Apr 16 09:13:09 2018 (806 ms) | general | New game starting up
-L4 | Mon Apr 16 09:13:09 2018 (806 ms) | general | Target game image size:  1024x600
-
-L4 | Mon Apr 16 09:13:09 2018 (806 ms) | general | Ideal window dimensions:  1366x768
-
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | Trying to start in window mode.
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | Want to use largest window that fits on screen.
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | Screen dimensions for largest-window mode:  1024x600
-
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | The following frame rates are considered possible:
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | 30 fps
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | 60 fps
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | 120 fps
-L4 | Mon Apr 16 09:13:09 2018 (807 ms) | general | 144 fps
-L4 | Mon Apr 16 09:13:09 2018 (811 ms) | general | Current screen configuration is 1360x768 with aspect ratio 1.77
-L4 | Mon Apr 16 09:13:09 2018 (811 ms) | general | All resolutions available
-L4 | Mon Apr 16 09:13:10 2018 (700 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+L4 | Mon Apr 16 16:08:38 2018 (406 ms) | general | exiting: Done.
 

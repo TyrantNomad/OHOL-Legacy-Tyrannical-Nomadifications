@@ -1,7 +1,7 @@
 id=258
 Bowl of Gooseberries and Carrot
-containable=0
-containSize=1,vertSlotRot=0.000000
+containable=1
+containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -66,17 +66,17 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=719
-pos=7.999999,-5.000000
-rot=0.025000
+spriteID=153
+pos=-9.000000,-25.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=153
-pos=-9.000000,-25.000000
-rot=0.000000
+spriteID=542
+pos=3.000000,-7.000000
+rot=-0.500000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -121,4 +121,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=16
+pixHeight=20

@@ -1,5 +1,5 @@
 id=866
-Rag Loincloth
+Tattered Rabbit Loincloth
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -25,12 +25,20 @@ sounds=-1:0.0,286:0.101010,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=1
-spriteID=1167
+numSprites=2
+spriteID=483
 pos=0.000000,-30.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1167
+pos=0.000000,-30.000000
+rot=0.000000
+hFlip=0
+color=0.900000,0.828000,0.720000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

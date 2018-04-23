@@ -1,16 +1,16 @@
-L4 | Sat Apr 21 18:51:19 2018 (88 ms) | general | exiting: Deleting sceneHandler
+L4 | Sun Apr 22 22:05:32 2018 (339 ms) | general | exiting: Deleting sceneHandler
 
-L4 | Sat Apr 21 18:51:19 2018 (88 ms) | general | exiting: calling SDL_CloseAudio
+L4 | Sun Apr 22 22:05:32 2018 (339 ms) | general | exiting: calling SDL_CloseAudio
 
-L4 | Sat Apr 21 18:51:19 2018 (128 ms) | general | Freeing sound sprites
+L4 | Sun Apr 22 22:05:32 2018 (382 ms) | general | Freeing sound sprites
 
-L4 | Sat Apr 21 18:51:19 2018 (128 ms) | general | exiting: freeing frameDrawer
+L4 | Sun Apr 22 22:05:32 2018 (382 ms) | general | exiting: freeing frameDrawer
 
-L4 | Sat Apr 21 18:51:19 2018 (210 ms) | general | exiting: Deleting screen
+L4 | Sun Apr 22 22:05:32 2018 (467 ms) | general | exiting: Deleting screen
 
-L4 | Sat Apr 21 18:51:19 2018 (210 ms) | general | exiting: freeing drawString
+L4 | Sun Apr 22 22:05:32 2018 (467 ms) | general | exiting: freeing drawString
 
-L4 | Sat Apr 21 18:51:19 2018 (211 ms) | general | exiting: calling SDL_Quit()
+L4 | Sun Apr 22 22:05:32 2018 (469 ms) | general | exiting: calling SDL_Quit()
 
-L4 | Sat Apr 21 18:51:19 2018 (219 ms) | general | exiting: Done.
+L4 | Sun Apr 22 22:05:32 2018 (477 ms) | general | exiting: Done.
 

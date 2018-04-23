@@ -1,5 +1,5 @@
 id=869
-Rag Shoe
+Tattered Rabbit Shoe
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -30,7 +30,7 @@ spriteID=1171
 pos=-2.000000,-41.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.900000,0.828000,0.720000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
